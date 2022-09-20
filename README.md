@@ -1,5 +1,6 @@
 # Trello-clone
 #
-# Node serveur: npm run serve
+# 'export NODE_OPTIONS=--openssl-legacy-provider' 
+Node serveur: npm run serve
 #
 #
